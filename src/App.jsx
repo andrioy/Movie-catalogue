@@ -1,6 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import SearchIcon from "./search.svg";
+import SearchIcon from "./assets/search.svg";
 import "./App.css";
 import MovieCard from "./componenets/MovieCard/MovieCart";
 
